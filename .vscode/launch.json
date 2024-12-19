@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open carrer-accomplishments.html",
+            "file": "c:\\Users\\5927003992\\OneDrive - School Board of Seminole County\\Mr. Walker\\Biography-of-Joker-P5\\carrer-accomplishments.html"
+        }
+    ]
+}

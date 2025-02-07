@@ -1,0 +1,16 @@
+p {color: #ffff;font-family: Georgia, 'Times New Roman', 
+    Times, serif;font-size: large; }
+    #container { margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  background-color: #000000;
+  min-width: 650px; max-width: 1280px;padding: 2em; }
+  body {background-color: #e02012; background-image: url(Background.png);}
+      #container { margin-left: auto; margin-right: auto; width: 80%;background-color: #000000;}
+      h1 {color: #ffff; text-align: center; height: 100px;font-family: Georgia, 'Times New Roman', 
+      Times, serif;font-size: xx-large;align-content: space-around;}
+      header { background-color: #000000;}
+      footer {color: #ffffff;}
+      nav {text-align: center; color: #ffff;font-family: Georgia, 'Times New Roman', 
+      Times, serif;font-size: large;}
+  h2 {color: #ffffff;}
